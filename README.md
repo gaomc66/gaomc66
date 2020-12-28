@@ -7,8 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m an incoming SDE intern at :apple: (Yay!)
+- :partly_sunny: I like cloud computing related things, and got an AWS certified developer certification
+- :coffee: Most of my experiences are based on java & js
 - 🌱 I’m currently learning Python and Automation 
-- 👯 I’m looking to collaborate on backend development 
+- 👯 I’m looking to collaborate on anything I know, HAHA
 - :earth_americas: I'm in Burlington, MA
 
 
