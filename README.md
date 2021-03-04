@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - :coffee: Most of my experiences are based on java & js
 - 🌱 I’m currently learning Python and Automation 
 - 👯 I’m looking to collaborate on anything I know, HAHA
-- :earth_americas: I'm in Burlington, MA
+- :earth_americas: I'm in Cupertino, CA
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaomc66&layout=compact)](https://github.com/gaomc66)
