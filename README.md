@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m a SDE intern at :apple: (Yay!)
+- 🔭 I’m a SWE intern at :apple: (Yay!)
 - :partly_sunny: I like cloud computing related things, and got an AWS certified developer certification
 - :coffee: Most of my experiences are based on java & js
 - 🌱 I’m also familiar with Python and automation scripts for CI/CD.
