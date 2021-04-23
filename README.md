@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a SDE intern at :apple: (Yay!)
 - :partly_sunny: I like cloud computing related things, and got an AWS certified developer certification
 - :coffee: Most of my experiences are based on java & js
-- 🌱 I’m currently learning Python and Automation 
-- 👯 I’m looking to collaborate on anything I know, HAHA
+- 🌱 I’m also familiar with Python and automation scripts for CI/CD.
 - :earth_americas: I'm in Cupertino, CA
 
 
